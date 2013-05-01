@@ -1,8 +1,15 @@
 The #masakism workshop, taking place on 2013-05-01.
 
-## topic map
+## Topic Map
 
-Here's a map over the available topics. Start from the left, and work your way
-rightward.
+Here's an SVG map of the workshop topics. Start from the left, and work your way rightward.
 
-![workshop map](https://raw.github.com/masak/workshop/master/workshop-map.png)
+The text links will take you to relevant task. 
+
+We will add links to the gists for the task solutions  to task descriptions after the workshop is over.
+<br/>
+<br/>
+
+
+<img src="http://freespectrum.herokuapp.com/workshop-map-links.svg">
+
