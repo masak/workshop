@@ -30,3 +30,5 @@ on the channel for further hints.
 Throughout all of this, keep a close eye on reference leakage. Make sure your
 `Graph` objects don't unnecessarily leak references to internal data
 structures.
+
+**«** [Previous](leakage.md) **|** [Next](anemic.md) **»**
