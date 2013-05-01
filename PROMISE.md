@@ -74,6 +74,7 @@ Here are some tests to get you started:
         ok !$value, "Fulfill code didn't run";
         is $reason, "OH NOES", "Reject code has been run";
     }
+
     {
         my $promise = Promise->new;
 
@@ -88,3 +89,5 @@ Here are some tests to get you started:
         is $promise->state, "FULFILLED", "Correct state";
         is $value, 3, "Code has been run";
     }
+
+**«** [Previous](abstraction.md) **|** [Next](dry.md) **»**
