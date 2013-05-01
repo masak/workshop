@@ -92,3 +92,5 @@ Here, let's summarize this with some tests:
             "Module W just started passing its test suite.",
         ], "Bot reports when a module starts passing its test suite again";
     }
+
+**«** [Previous](test-2.md) **|** [Next](nesting.md) **»**
