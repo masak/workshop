@@ -63,3 +63,8 @@ part of most exercises.
 Seriously, if I could give people one piece of advice for how to better
 themselves as programmers, it's to boost up their unit testing skills. It pays
 off amazingly.
+
+If you're completely new to testing, reading up on
+[`Test::More`](https://metacpan.org/module/Test::More) might be a good idea.
+The corresponding module for Perl 6 is just called `Test`, but the subroutines
+are the same.
