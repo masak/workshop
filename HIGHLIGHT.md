@@ -53,3 +53,5 @@ Here are a few more example inputs with their corresponding highlighted output:
 
 Extra kudos points if you actually hook this up to Latex and make it emit
 highlighted source code.
+
+**«** [Previous](grammar.md) **|** [Next](dsl.md) **»**
