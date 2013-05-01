@@ -14,3 +14,5 @@ Write a program that takes a song list like this, and calculates the total
 playing time.
 
 Write a simple test first! Then make it pass. Iterate.
+
+**«** [Previous](nesting.md) **|** [Next](lazy.md) **»**
