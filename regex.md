@@ -33,3 +33,5 @@ and [S05](http://perlcabal.org/syn/S05.html) might be a nice combination. But
 S05 is quite big, and it's a really good idea to combine reading it with
 talking to other Perl 6 people, and writing small stuff on your own to try
 things.
+
+**«** [Previous](ONELINER.md) **|** [Next](SCRAPING.md) **»**
