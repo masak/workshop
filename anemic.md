@@ -33,3 +33,5 @@ it suggested an action for me. Nice. That's service!
 
 It's easy to accidentally make our APIs anemic and amnesiac. We should aim
 higher.
+
+**«** [Previous](GRAPH.md) **|** [Next](INTENT.md) **»**
