@@ -31,3 +31,5 @@ And I repeat that. A really neat way to make quick progress. In fact, I try to
 sort the lines of input in increasing order of length, where that makes sense.
 The shorter cases are usually the more simple to handle. This is actually a
 kind of Test-Driven Development in disguise.
+
+**«** [Previous](ROMAN.md) **|** [Next](end-weight.md) **»**
