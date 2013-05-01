@@ -57,3 +57,5 @@ selection:
 
     $intros->removeClass("intro");
     $intros->addClass("introduction");
+
+**«** [Previous](compose.md) **|**
