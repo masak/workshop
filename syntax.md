@@ -44,3 +44,5 @@ probably be more like `$number_of_employees` or something.
 
 Perl's syntax allows you to pick and choose how your code will look. Use that
 to your advantage. Make the code highlight what's important in your program.
+
+**«** [Previous](central.md) **|** [Next](GOLF.md) **»**
