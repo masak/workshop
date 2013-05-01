@@ -72,3 +72,5 @@ Here are some tests to get you started:
         ok !$value, "Fulfill code didn't run";
         is $reason, "OH NOES", "Reject code has been run";
     }
+
+**«** [Previous](abstraction.md) **|** [Next](dry.md) **»**
