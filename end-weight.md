@@ -40,3 +40,5 @@ literary and more boring, but it's also easier to read.
 
 Don't save the best till last. Think about what's the most important part of a
 statement, and try to shift it to the front, so that the reader sees it first.
+
+**«** [Previous](fail-fast.md) **|** [Next](central.md) **»**
