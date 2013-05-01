@@ -58,3 +58,5 @@ other.)
 Now write a program that does the same in as few characters as possible. I once
 got this program golfed down to fit inside a signature block (80 chars x 2
 lines). You can probably do better.
+
+**«** [Previous](syntax.md) **|** [Next-Processing](processing.md) **»**
