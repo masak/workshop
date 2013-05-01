@@ -1,11 +1,14 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- maybe add viewBox="0 0 1930 830" preserveAspectRatio="none" -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
    width="3860.345"
@@ -38,7 +41,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="839.61731"
        y="322.9263"
-       id="tspan2987">JAPH</tspan></text>
+       id="tspan2987"><a xlink:href="https://github.com/masak/workshop/blob/master/JAPH.md">JAPH</a></tspan></text>
   <text
      x="2664.5959"
      y="-1445.9811"
@@ -48,7 +51,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2664.5959"
        y="-1445.9811"
-       id="tspan2991">ELEVATOR</tspan></text>
+       id="tspan2991"><a xlink:href="https://github.com/masak/workshop/blob/master/ELEVATOR.md">ELEVATOR</a></tspan></text>
   <text
      x="1629.8807"
      y="-1520.0303"
@@ -58,7 +61,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1629.8807"
        y="-1520.0303"
-       id="tspan2995">ONELINER</tspan></text>
+       id="tspan2995"><a xlink:href="https://github.com/masak/workshop/blob/master/ONELINER.md">ONELINER</a></tspan></text>
   <text
      x="604.85138"
      y="563.97852"
@@ -68,7 +71,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="604.85138"
        y="563.97852"
-       id="tspan2999">intro</tspan></text>
+       id="tspan2999"><a xlink:href="https://github.com/masak/workshop/blob/master/intro.md">intro</a></tspan></text>
   <text
      x="1418.1398"
      y="-242.21335"
@@ -78,7 +81,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1418.1398"
        y="-242.21335"
-       id="tspan3003">end-weight</tspan></text>
+       id="tspan3003"><a xlink:href="https://github.com/masak/workshop/blob/master/end-weight.md">end-weight</a></tspan></text>
   <text
      x="2213.9006"
      y="-1194.7285"
@@ -88,7 +91,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2213.9006"
        y="-1194.7285"
-       id="tspan3007">lazy</tspan></text>
+       id="tspan3007"><a xlink:href="https://github.com/masak/workshop/blob/master/lazy.md">lazy</a></tspan></text>
   <text
      x="2250.0408"
      y="-1942.2367"
@@ -98,7 +101,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2250.0408"
        y="-1942.2367"
-       id="tspan3011">HIGHLIGHT</tspan></text>
+       id="tspan3011"><a xlink:href="https://github.com/masak/workshop/blob/master/HIGHLIGHT.md">HIGHLIGHT</a></tspan></text>
   <text
      x="2363.9617"
      y="-1273.3818"
@@ -108,7 +111,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2363.9617"
        y="-1273.3818"
-       id="tspan3015">FRINGE</tspan></text>
+       id="tspan3015"><a xlink:href="https://github.com/masak/workshop/blob/master/FRINGE.md">FRINGE</a></tspan></text>
   <text
      x="1273.1927"
      y="-113.44394"
@@ -118,7 +121,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1273.1927"
        y="-113.44394"
-       id="tspan3023">fail-fast</tspan></text>
+       id="tspan3023"><a xlink:href="https://github.com/masak/workshop/blob/master/fail-fast.md">fail-fast</a></tspan></text>
   <text
      x="1901.5322"
      y="-1023.9648"
@@ -128,7 +131,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1901.5322"
        y="-1023.9648"
-       id="tspan3027">nesting</tspan></text>
+       id="tspan3027"><a xlink:href="https://github.com/masak/workshop/blob/master/nesting.md">nesting</a></tspan></text>
   <text
      x="2219.7241"
      y="-96.094696"
@@ -138,7 +141,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2219.7241"
        y="-96.094696"
-       id="tspan3031">abstraction</tspan></text>
+       id="tspan3031"><a xlink:href="https://github.com/masak/workshop/blob/master/abstraction.md">abstraction</a></tspan></text>
   <text
      x="2507.1814"
      y="-420.44138"
@@ -148,7 +151,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2507.1814"
        y="-420.44138"
-       id="tspan3035">dry</tspan></text>
+       id="tspan3035"><a xlink:href="https://github.com/masak/workshop/blob/master/dry.md">dry</a></tspan></text>
   <text
      x="2641.8203"
      y="-806.28876"
@@ -158,7 +161,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2641.8203"
        y="-806.28876"
-       id="tspan3039">tell-vs-ask</tspan></text>
+       id="tspan3039"><a xlink:href="https://github.com/masak/workshop/blob/master/tell-vs-ask.md">tell-vs-ask</a></tspan></text>
   <text
      x="2782.8445"
      y="-1136.1558"
@@ -168,7 +171,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2782.8445"
        y="-1136.1558"
-       id="tspan3043">leakage</tspan></text>
+       id="tspan3043"><a xlink:href="https://github.com/masak/workshop/blob/master/leakage.md">leakage</a></tspan></text>
   <text
      x="1788.2651"
      y="-875.36212"
@@ -178,7 +181,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1788.2651"
        y="-875.36212"
-       id="tspan3047">BOT</tspan></text>
+       id="tspan3047"><a xlink:href="https://github.com/masak/workshop/blob/master/BOT.md">BOT</a></tspan></text>
   <text
      x="2517.6401"
      y="-1360.3672"
@@ -188,7 +191,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2517.6401"
        y="-1360.3672"
-       id="tspan3051">observe</tspan></text>
+       id="tspan3051"><a xlink:href="https://github.com/masak/workshop/blob/master/observe.md">observe</a></tspan></text>
   <text
      x="2835.1682"
      y="-1598.9128"
@@ -198,7 +201,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2835.1682"
        y="-1598.9128"
-       id="tspan3055">compose</tspan></text>
+       id="tspan3055"><a xlink:href="https://github.com/masak/workshop/blob/master/compose.md">compose</a></tspan></text>
   <path
      d="m 10.729779,753.2205 1345.714321,0"
      id="path3057"
@@ -220,7 +223,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="970.75403"
        y="192.16531"
-       id="tspan3835">test</tspan></text>
+       id="tspan3835"><a xlink:href="https://github.com/masak/workshop/blob/master/test.md">test</a></tspan></text>
   <text
      x="1112.4937"
      y="47.175934"
@@ -230,7 +233,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1112.4937"
        y="47.175934"
-       id="tspan3839">ROMAN</tspan></text>
+       id="tspan3839"><a xlink:href="https://github.com/masak/workshop/blob/master/ROMAN.md">ROMAN</a></tspan></text>
   <text
      x="1677.2061"
      y="-720.42969"
@@ -240,7 +243,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1677.2061"
        y="-720.42969"
-       id="tspan3843">test-2</tspan></text>
+       id="tspan3843"><a xlink:href="https://github.com/masak/workshop/blob/master/test-2.md">test-2</a></tspan></text>
   <text
      x="1308.6754"
      y="-1053.3181"
@@ -250,7 +253,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1308.6754"
        y="-1053.3181"
-       id="tspan3847">syntax</tspan></text>
+       id="tspan3847"><a xlink:href="https://github.com/masak/workshop/blob/master/syntax.md">syntax</a></tspan></text>
   <text
      x="1768.082"
      y="-1635.0786"
@@ -260,7 +263,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1768.082"
        y="-1635.0786"
-       id="tspan3851">regex</tspan></text>
+       id="tspan3851"><a xlink:href="https://github.com/masak/workshop/blob/master/regex.md">regex</a></tspan></text>
   <text
      x="1515.3376"
      y="-1388.5629"
@@ -270,7 +273,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1515.3376"
        y="-1388.5629"
-       id="tspan3855">processing</tspan></text>
+       id="tspan3855"><a xlink:href="https://github.com/masak/workshop/blob/master/processing.md">processing</a></tspan></text>
   <text
      x="2084.8247"
      y="-1867.2957"
@@ -280,7 +283,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2084.8247"
        y="-1867.2957"
-       id="tspan3859">grammar</tspan></text>
+       id="tspan3859"><a xlink:href="https://github.com/masak/workshop/blob/master/grammar.md">grammar</a></tspan></text>
   <text
      x="2440.7856"
      y="-2020.4563"
@@ -290,7 +293,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2440.7856"
        y="-2020.4563"
-       id="tspan3863">dsl</tspan></text>
+       id="tspan3863"><a xlink:href="https://github.com/masak/workshop/blob/master/dsl.md">dsl</a></tspan></text>
   <path
      d="m 547.87263,770.3633 a 17.142857,17.142857 0 1 0 0,-34.2857 17.142857,17.142857 0 1 0 0,34.2857 z"
      id="path3865"
@@ -328,7 +331,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1581.5857"
        y="-434.74496"
-       id="tspan3883">central</tspan></text>
+       id="tspan3883"><a xlink:href="https://github.com/masak/workshop/blob/master/central.md">central</a></tspan></text>
   <path
      d="m 1668.3326,135.8466 a 17.142857,17.142857 0 1 0 0,-34.2857 17.142857,17.142857 0 1 0 0,34.2857 z"
      id="path3889"
@@ -434,7 +437,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="3030.9727"
        y="-1382.6895"
-       id="tspan3171">anemic</tspan></text>
+       id="tspan3171"><a xlink:href="https://github.com/masak/workshop/blob/master/anemic.md">anemic</a></tspan></text>
   <text
      x="1395.5385"
      y="-1245.2467"
@@ -444,7 +447,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1395.5385"
        y="-1245.2467"
-       id="tspan3085">GOLF</tspan></text>
+       id="tspan3085"><a xlink:href="https://github.com/masak/workshop/blob/master/GOLF.md">GOLF</a></tspan></text>
   <text
      x="2049.4849"
      y="-1117.4462"
@@ -454,7 +457,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2049.4849"
        y="-1117.4462"
-       id="tspan3089">PLAYLIST</tspan></text>
+       id="tspan3089"><a xlink:href="https://github.com/masak/workshop/blob/master/PLAYLIST.md">PLAYLIST</a></tspan></text>
   <text
      x="2958.7029"
      y="-1794.3508"
@@ -464,7 +467,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2958.7029"
        y="-1794.3508"
-       id="tspan3093">SELECTOR</tspan></text>
+       id="tspan3093"><a xlink:href="https://github.com/masak/workshop/blob/master/SELECTOR.md">SELECTOR</a></tspan></text>
   <path
      d="m 3112.5536,832.2922 a 17.142857,17.142857 0 1 0 0,-34.2857 17.142857,17.142857 0 1 0 0,34.2857 z"
      id="path3095"
@@ -490,7 +493,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2897.314"
        y="-1257.3289"
-       id="tspan3109">GRAPH</tspan></text>
+       id="tspan3109"><a xlink:href="https://github.com/masak/workshop/blob/master/GRAPH.md">GRAPH</a></tspan></text>
   <text
      x="2378.3831"
      y="-230.9642"
@@ -500,7 +503,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2378.3831"
        y="-230.9642"
-       id="tspan3117">PROMISE</tspan></text>
+       id="tspan3117"><a xlink:href="https://github.com/masak/workshop/blob/master/PROMISE.md">PROMISE</a></tspan></text>
   <text
      x="2695.2083"
      y="-985.70825"
@@ -510,7 +513,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2695.2083"
        y="-985.70825"
-       id="tspan3121">KENYA</tspan></text>
+       id="tspan3121"><a xlink:href="https://github.com/masak/workshop/blob/master/KENYA.md">KENYA</a></tspan></text>
   <text
      x="2590.4814"
      y="-2052.9104"
@@ -520,7 +523,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2590.4814"
        y="-2052.9104"
-       id="tspan3125">SHIPPING</tspan></text>
+       id="tspan3125"><a xlink:href="https://github.com/masak/workshop/blob/master/SHIPPING.md">SHIPPING</a></tspan></text>
   <path
      d="m 3319.1028,334.6483 a 17.142857,17.142857 0 1 0 0,-34.2857 17.142857,17.142857 0 1 0 0,34.2857 z"
      id="path3127"
@@ -534,7 +537,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="3184.3672"
        y="-1460.9565"
-       id="tspan3131">INTENT</tspan></text>
+       id="tspan3131"><a xlink:href="https://github.com/masak/workshop/blob/master/INTENT.md">INTENT</a></tspan></text>
   <path
      d="m 2454.1722,50.6459 a 17.1429,17.1429 0 0 0 0,-34.2858 17.1429,17.1429 0 1 0 0,34.2858 z"
      id="path3896"
@@ -548,7 +551,7 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="1920.9939"
        y="-1754.775"
-       id="tspan3900">SCRAPING</tspan></text>
+       id="tspan3900"><a xlink:href="https://github.com/masak/workshop/blob/master/SCRAPING.md">SCRAPING</a></tspan></text>
   <text
      x="2573.4558"
      y="-609.4469"
@@ -558,5 +561,5 @@
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
        x="2573.4558"
        y="-609.4469"
-       id="tspan3273">HEX</tspan></text>
+       id="tspan3273"><a xlink:href="https://github.com/masak/workshop/blob/master/HEX.md">HEX</a></tspan></text>
 </svg>
