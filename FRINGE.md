@@ -32,3 +32,5 @@ could use laziness to separate these tasks. That way, we won't have to traverse
 more of the trees than necessary &mdash; we could stop at the first difference.
 
 Oh, and there's a Perl 6 solution for this problem. But try writing your own.
+
+**«** [Previous](lazy.md) **|** [Next](observe.md) **»**
