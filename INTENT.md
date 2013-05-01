@@ -20,3 +20,5 @@ Now step back and think about what can be done to make this system less anemic
 and less anmesiac. For example, what's the first action a customer is likely to
 want to take? When actions fail, can we somehow lead them in the right
 direction? When some actions succeed, is there a likely next action?
+
+**«** [Previous](anemic.md) **|**
