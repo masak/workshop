@@ -52,3 +52,5 @@ What is it that makes composition nicer than hooks. Two things:
   build on the original API. It also means that you can publish your addition as
   a bona fide plugin. And then other people can build on your plugin, just as if
   it were an original building block of the API.
+
+**«** [Previous](ELEVATOR.md) **|** [Next](SELECTOR.md) **»**
