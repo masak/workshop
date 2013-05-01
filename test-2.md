@@ -16,3 +16,5 @@ principle: instead of the object itself deciding what other objects it needs,
 we give it a set of objects with the right methods. Do we really need an actual
 email sender? No, we need an object that resonds to a `.send($recipient,
 $message)` method call. Do we really need a database? No, we... and so on.
+
+**«** [Previous](central.md) **|** [Next](BOT.md) **»**
