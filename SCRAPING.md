@@ -19,3 +19,5 @@ data structure looking like this:
 
 There will be CPAN modules or modules.perl6.org modules to help you with some
 of the sub-tasks. Ask on the channel.
+
+**«** [Previous](regex.md) **|** [Next](grammar.md) **»**
