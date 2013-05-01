@@ -39,3 +39,5 @@ pays off, sometimes not. Knowing when to make a DSL and when not to, is key.
 See [Martin Fowler's bliki
 page](http://www.martinfowler.com/bliki/DomainSpecificLanguage.html) for more
 on the topic.
+
+**«** [Previous](HIGHLIGHT.md) **|** [Next](SHIPPING.md) **»**
