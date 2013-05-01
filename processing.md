@@ -43,3 +43,5 @@ where attention is paid more to structure and naming:
 Both modes are great. You can be brief and succinct when you need to, and the
 shortcuts of Perl will often work in your advantage in nice ways. But you can
 also be more discursive and explicit, so that it's easier to maintain.
+
+**«** [Previous](processing.md) **|** [Next](ONELINER.md) **»**
