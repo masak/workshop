@@ -50,3 +50,5 @@ data consistent, it sucks.
 References are great. But they sometimes get in the way to upholding
 invariants. Leaking a reference is a bit like accidentally giving the keys to
 your house to someone along with your business card. Be aware of leaks.
+
+**«** [Previous](KENYA.md) **|** [Next](GRAPH.md) **»**
