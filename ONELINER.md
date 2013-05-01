@@ -55,3 +55,5 @@ maintainability.
     perl -pwle 's/\bPERL\b/Perl/g and $n++; END { print $n }'
 
     perl -anwle 'print join " : ", @F[2..4]'
+
+**«** [Previous](processing.md) **|** [Next](regex.md) **»**
