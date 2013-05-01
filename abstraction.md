@@ -75,3 +75,5 @@ statement 2000 times. Made me depressed, so I decided to stop reading that
 blog.
 
 In the subsequent sections we will see where this principle can take us.
+
+**«** [Previous](central.md) **|** [Next](PROMISE.md) **»**
