@@ -32,6 +32,11 @@ A new-ish movement in programming called CQRS (Command-Query Responsibility
 Segregation) builds partly on this principle: to separate **tell** and **ask**
 into completely different objects in the system.
 
+TimToady pointed out during the workshop that introspection is another example
+of "tell, don't ask" being broken. In that case, we're leaking logic out of the
+language and type system itself, trying to rebuild our own (probably weaker)
+version of it from the outside.
+
 Consider making your classes more focused by leaning more heavily on telling
 your objects things, not asking them and risking logic leaks.
 
