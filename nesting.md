@@ -88,3 +88,5 @@ This holds true even if we're using Moose or Moo or whatver, it's just that we
 have to think less about actually handing the hash ourselves. It holds less
 true in Perl 6, where objects by default are actually opaque things, and not
 hashes.
+
+**«** [Previous](BOT.md) **|** [Next](PLAYLIST.md) **»**
