@@ -34,3 +34,5 @@ into completely different objects in the system.
 
 Consider making your classes more focused by leaning more heavily on telling
 your objects things, not asking them and risking logic leaks.
+
+**«** [Previous](HEX.md) **|** [Next](KENYA.md) **»**
