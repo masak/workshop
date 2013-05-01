@@ -36,3 +36,5 @@ bit of a higher threshold. Almost invariably, I end up wishing I had used
 grammars instead. Just manipulating everything in-place in the string turns
 messy really quickly. With grammars, you parse everything into a structure, and
 then you can play around with the structure, independently of the source text.
+
+**«** [Previous](SCRAPING.md) **|** [Next](HIGHLIGHT.md) **»**
