@@ -12,3 +12,7 @@ You now have the choice to branch out into one of three tracks.
 
 I honestly have no idea what you will choose. Pick something that seems to suit
 you. You're free to come back here at any time and choose again.
+
+**«** [Previous](end-weight.md) **|** [Next-Processing](syntax.md) **»**
+**|** [Next-Data](test-2.md) **»**
+**|** [Next-Object](abstraction.md) **»**
