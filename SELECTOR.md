@@ -8,7 +8,7 @@ representation of an HTML document object model (DOM):
         Element->new(tag => "h1", children => [
             Text->new(text => "Gettysburg Address"),
         ]),
-        Element->new(tag => "p", class="intro", children => [
+        Element->new(tag => "p", class => "intro", children => [
             Text->new(text => "Four score and seven years ago our fathers brought forth..."),
         ]),
         Element->new(tag => "p", children => [
@@ -18,7 +18,7 @@ representation of an HTML document object model (DOM):
             Text->new(text => "But, in a larger sense, we can not dedicate..."),
         ]),
         Element->new(tag => "ul", children => [
-            Element->new(tag => "li", class="intro", children => [...]),
+            Element->new(tag => "li", class => "intro", children => [...]),
             Element->new(tag => "li", children => [...]),
             Element->new(tag => "li", children => [...]),
         ]),
