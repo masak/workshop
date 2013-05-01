@@ -52,3 +52,5 @@ An iterator, at its simplest, is an object with two methods:
   to iterate over.
 
 * `.next()` which steps to the next thing, and returns it.
+
+**«** [Previous](PLAYLIST.md) **|** [Next](FRINGE.md) **»**
