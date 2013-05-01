@@ -35,7 +35,7 @@ it just lets things through at once.
 
 Here are some tests to get you started:
 
-    use Test::More tests => 9;
+    use Test::More tests => 12;
 
     {
         my $promise = Promise->new;
