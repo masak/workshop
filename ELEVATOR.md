@@ -6,3 +6,5 @@ it before I have time to fill it in, come talk to me, and I'll give as much
 information as I have at the moment. It's a fun one, I promise.
 
 Or just skip to another section. Whatever works for you. :)
+
+**«** [Previous](observe.md) **|** [Next](compose.md) **»**
