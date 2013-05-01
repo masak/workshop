@@ -8,7 +8,7 @@ and
 
     last if $state eq "FINISHED";
 
-...I defeinitely prefer the latter.
+...I definitely prefer the latter.
 
 Why? Because I consider `last` to be the important bit of this piece of code.
 It's control flow: if this `if` statement triggers, it will have drastic
