@@ -68,3 +68,5 @@ If you're completely new to testing, reading up on
 [`Test::More`](https://metacpan.org/module/Test::More) might be a good idea.
 The corresponding module for Perl 6 is just called `Test`, but the subroutines
 are the same.
+
+**«** [Previous](JAPH.md) **|** [Next](ROMAN.md) **»**
