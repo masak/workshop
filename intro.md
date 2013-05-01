@@ -77,3 +77,5 @@ simple, readable and elegant code. As a guild, we have some of the answers
 already; let's learn them and practice them and discuss them.
 
 Let's begin. *For science!*
+
+**|** [Next](JAPH.md) **»**
