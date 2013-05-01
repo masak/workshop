@@ -58,3 +58,5 @@ models... all sorts of goodness starts to happen.
 Actually, it's rather lucky that this loophole to DRY exists; otherwise we
 wouldn't even be able to assign from one variable to another with good
 conscience.
+
+**«** [Previous](PROMISE.md) **|** [Next](HEX.md) **»**
