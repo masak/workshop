@@ -25,6 +25,8 @@ Create a class `Promise`, with the following properties:
       previously stored `$value`.
     * If in `REJECTED`, call `&onRejected` immediately, with the
       previously stored `$reason`.
+  Promise should be able to keep an arbitrary number of onFulfilled and
+  onRejected callbacks, and call all of them when it's resolved.
 
 In other words, a `Promise` object is a kind of double pipe in which you can
 plan for a successful future or a future where things go south. And in the
@@ -71,4 +73,18 @@ Here are some tests to get you started:
         is $promise->state, "REJECTED", "Correct state";
         ok !$value, "Fulfill code didn't run";
         is $reason, "OH NOES", "Reject code has been run";
+    }
+    {
+        my $promise = Promise->new;
+
+        my $value = 0;
+        $promise->then(sub { $value++ });
+        $promise->then(sub { $value++ });
+        $promise->then(sub { $value++ });
+        ok !$value, "Hasn't been fulfilled yet";
+
+        $promise->fulfill("OH HAI");
+
+        is $promise->state, "FULFILLED", "Correct state";
+        is $value, 3, "Code has been run";
     }
