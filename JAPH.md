@@ -7,3 +7,5 @@ it and do it in a way the rest of us wouldn't expect.
 Check out the [Wikipedia
 article](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) if you want.
 Or this [archive of JAPHs](http://www.cpan.org/misc/japh).
+
+**«** [Previous](intro.md) **|** [Next](test.md) **»**
