@@ -25,8 +25,7 @@ Your taks is to find "third-row templates". They look like this:
       x x x
 
 The cell marked `O` should be either a black stone or a while stone. The cells
-marked `_` have to be empty. The `x` things are either all stones of the same
-color as the `O` stone, *or* (more commonly) actually outside of the board.
+marked `_` have to be empty. The `x` things are outside of the board.
 This is called an "edge template" because it typically connects to some edge
 or other. The template can be rotated or *mirrored* in all possible ways.
 
@@ -48,6 +47,7 @@ This would output something like this:
     Template at e3: empty cells d1 e1 f1 g1 d2 e2 f2 d3
     Template at e3: empty cells e1 f1 g1 h1 e2 f2 g2 f3
     Template at c8: empty cells d8 b9 c9 d9 a10 b10 c10 d10
+    Template at c8: empty cells a7 b7 c7 a8 b8 a9 b9 a10    
     Template at h10: empty cells j7 i8 j8 h9 i9 j9 i10 j10
 
 The order of the templates and the empty cells doesn't much matter, though.
