@@ -52,3 +52,5 @@ This would output something like this:
 
 The order of the templates and the empty cells doesn't much matter, though.
 Just need to find all the possible templates.
+
+**«** [Previous](dry.md) **|** [Next](tell-vs-ask.md) **»**
