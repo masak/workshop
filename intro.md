@@ -58,7 +58,7 @@ I also tend to say to the corporate participants, by way of introducing myself:
 > socks online, controlling robot arms in a factory, or sending automated motor
 > vehicles to Mars, the main activity is fundamentally awesome: we're *putting
 > behavior into inert matter*. Programming is the closest thing we have to magic
-> in the read world.
+> in the real world.
 
 Because, you know, those three are the only sub-professions of programmer there
 are: robot arm coder, Mars rover technician, and sock vendor. `:-)`
