@@ -45,6 +45,7 @@ Here, let's summarize this with some tests:
 
         set_things_up_so_everything_passes($tester);
         $bot->receive_statistics();
+        $channel->clear_messages();
 
         set_things_up_so_something_fails($tester);
         $bot->receive_statistics();
