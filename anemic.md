@@ -1,20 +1,24 @@
-Anemic APIs have problems expressing the users wishes effectively. It's not
+Anemic APIs have problems expressing the user's wishes effectively. It's not
 that you can't *do* everything &mdash; you can &mdash; it's just that what
-should be powerful, swiping workflows instead feel like sucking your workload
-through a very thin straw. The "bandwidth" of the API somehow isn't enough
-for the complexity of the domain.
+should be powerful, swiping workflows instead feel like drinking your results
+through a very thin straw. The "bandwidth" of the API somehow isn't enough for
+the complexity of the domain.
 
 This is far too common, unfortunately.
 
 People tend to describe this as application builders thinking of their
 applications as big HTML forms or (poor-man's) Excel spreadsheets, where the
-only operation is "update".
+only operation is "update field".
 
 Whereas what you *can* do is "focus on the verbs". What verbs are natural when
 interacting with your API? Try different ones &mdash; which one works best?
 
 Verbs carry *intent*, often not just about what you're updating but also *how*
 and *why* you're updating. They're often a step up from just "update".
+
+Go out on the web and find a list of the 100 or 500 most common verbs in the
+English language. Come on, do it. Read through the list. Think what amazing
+APIs we could build with those verbs.
 
 Lately, I've come to think about these APIs as not just anemic, but *amnesiac*,
 too. The API doesn't remember where you were and what you did five seconds ago.

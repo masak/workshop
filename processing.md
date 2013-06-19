@@ -18,6 +18,8 @@ comma-separated values, and I want to sort them?
 No problem, that's just a one-liner:
 
     $ perl -pwle '$_ = join ",", sort { $a <=> $b } split /,/' input
+     5, 14, 33,    48, 100
+     -6, 8,    9, 17, 19, 34
 
 (To be read "backwards": the script splits on commas, sorts numerically, and
 then joins on commas again.)

@@ -25,8 +25,9 @@ changes from `$` to `@`, because you're accessing a sequence of things:
     say @phone_numbers{@stooges};   # 60997021 77942517 35741912
 
 (Not in Perl 6, though. In Perl 6, the sigil remains the same as in the
-original variable, whatever you're doing with it. So the above would be
-`@stooges[...]` and `%phone_numbers{...}` no matter what in Perl 6.)
+original variable, whatever you're doing with it. So in Perl 6, the above would
+be `@stooges[...]` and `%phone_numbers{...}` no matter how you're accessing
+things.)
 
 All this is pretty great. The one *surprising* thing for people tends to be
 that when you put an array or a hash in list context, it *flattens* into its
@@ -87,6 +88,8 @@ methods on it.
 This holds true even if we're using Moose or Moo or whatver, it's just that we
 have to think less about actually handing the hash ourselves. It holds less
 true in Perl 6, where objects by default are actually opaque things, and not
-hashes.
+hashes. But Perl 6 allows objects to be backed by different "representations",
+and if we were using a hash representation for our object, it would be just
+like in Perl 5.
 
 **«** [Previous](BOT.md) **|** [Next](PLAYLIST.md) **»**

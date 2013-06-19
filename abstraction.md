@@ -16,7 +16,7 @@ Every. Single. Time.
 So one day you stop in front of him and go "Dude," (because that's totally how
 people spoke back in 1880), "all you ever do is go 'The [INSERT POLITICIAN
 HERE] is an ass!' Frankly, it feels like a Monty Python sketch without a
-punchline! And what's up with constantly bringing insult on donkeys?"
+punchline. And what's up with constantly bringing insult on donkeys?"
 
 Well, congratulations. You've just practiced the ancient and noble art of
 abstraction. Wearing your best 1880s clothes, at that.
@@ -40,8 +40,8 @@ general kind of badness, with a sensible default:
 
 Subroutines are great at this: they allow you to go "given these ingredients,
 here's how to bake this cake". In this case, given a certain politician and a
-possible badness, we can whip up a soap box insult. We're replaced Angry Soap
-Box Guy with a Perl script.
+possible badness, we can whip up a soap box insult. We've essentially replaced
+Angry Soap Box Guy with a very short Perl script.
 
 Objects are also great at this. They're actually very like subroutines, except
 that they emphasize their ability to bundle persistent data with behavior:
@@ -65,7 +65,8 @@ that says that you should abstract as often as you can. Cats are great at this:
 try making a repeated pattern with your hand in front of a cat &mdash; chances
 are it will put its paw on your hand and glare at you, as if they also wanted
 to say "Dude", and explain to you that you were repeating yourself. That's how
-we should be with our programs.
+we should be with our programs. (Cats, however, do not necessarily enjoy wearing
+Sunday clothes from the 1880 very much.)
 
 I must confess I stopped reading [The Daily WTF](http://thedailywtf.com/)
 because it simply became too painful to me to watch people fail at abstracting

@@ -1,3 +1,6 @@
+> "Unfortunately, no one can be *told* what [Test-Driven Development] is. You
+> have to see it for yourself." &mdash; Morpheus, slightly paraphrased
+
 Let's say I wanted to write a function that would repeat a string up to a given
 length. Where would I start? I would probably start with a simple test, something
 setting up an expectation for the function:
@@ -16,10 +19,10 @@ Then I go ahead and implement the code that makes that pass:
         return $substring x $repetitions;
     }
 
-And then I would think if there's any situation I'm still not covering. In this
-case, yes, there is: I'm only testing when a (5-char) substring fits exactly a
-whole number of times into the expected length (20 characters). What about the
-case where it doesn't?
+And then I would ponder whether there's any situation I'm still not covering.
+In this case, yes, there is: I'm only testing when a (5-char) substring fits
+exactly a whole number of times into the expected length (20 characters). What
+about the case where it doesn't?
 
 So I write a new test:
 
@@ -57,6 +60,12 @@ To me, tests are not "an extra thing". They are an important 50% of your
 program; the part that makes sure your expectations are in sync with your
 implementation.
 
+Writing with tests is like having two sock puppets talking to each other: it's
+occasionally interesting and fun, and it drives the plot forward. Writing
+without tests is like having one sock puppet talking to itself: it tends to
+turn into rambling without a purpose, and there's no-one to contradict the sock
+puppet when it's saying crazy stuff. ☺
+
 Because tests are the best way I know to communicate requirements, the form a
 part of most exercises.
 
@@ -68,5 +77,11 @@ If you're completely new to testing, reading up on
 [`Test::More`](https://metacpan.org/module/Test::More) might be a good idea.
 The corresponding module for Perl 6 is just called `Test`, but the subroutines
 are the same.
+
+If you're still not convinced testing is the bee's knees, might I suggest a
+detour into these two posts? [How to think better about code and be more
+effective](http://blog.edument.se/2012/03/21/how-to-think-better-about-code-and-be-more-effective/)
+and [Why tests will change the way you code (if they haven't
+already)](http://strangelyconsistent.org/blog/why-tests-will-change-the-way-you-code).
 
 **«** [Previous](JAPH.md) **|** [Next](ROMAN.md) **»**

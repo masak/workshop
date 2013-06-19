@@ -24,13 +24,18 @@ better for everyone involved if the schedule handled all of the data that
 belonged to it, instead of logic leaking out of the schedule class into other
 parts of the program.
 
+In some sense, it's about not micromanaging our objects. They've grown up now,
+so let them go out into the world and make a life of their own.
+
 The extreme point of this is to design objects that are complete black boxes.
 All you can ever really do is tell them things, and see if the object accepts
 it or not. It's an interesting way to program, and it works surprisingly well.
 
 A new-ish movement in programming called CQRS (Command-Query Responsibility
 Segregation) builds partly on this principle: to separate **tell** and **ask**
-into completely different objects in the system.
+into completely different objects in the system. The "tell" objects are
+excellent for business logic which shouldn't leak out to the rest of the
+system. The "ask" objects make excellent derived views of the "tell" objects.
 
 TimToady pointed out during the workshop that introspection is another example
 of "tell, don't ask" being broken. In that case, we're leaking logic out of the

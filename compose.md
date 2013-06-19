@@ -1,7 +1,7 @@
 Recently I tweeted that people should aim to make their APIs small, and then
 provide extensibility functionality through hooks. Got a bunch of retweets.
 Kind of a cheap bit of wisdom, likely to be retweeted. (But I still wish more
-would follow it.)
+would abide by it.)
 
 Someone tweeted back: "hooks are good, but *composability* is better".
 
@@ -18,6 +18,8 @@ concrete:
 
 * Functions. People can build bigger functions that call smaller functions.
   The result of putting together functions in this way is still a function.
+  That isn't just some random curiosity; that's how to build large
+  programs.
 
 * jQuery selections. People can use the built-in actions to generate or
   modify selections. If those actions are not enough, there's a plugin
@@ -33,7 +35,8 @@ Here's what we ended up with:
 
 * Implicit in all of this is that some *nice property be preserved*. So you're
   not just "building things", you're building the "same kind" of bigger things
-  from the smaller things.
+  from the smaller things. (The category-theoretical name for this notion is
+  ["homomorphism"](https://en.wikipedia.org/wiki/Homomorphism).)
 
 * And that's what we're really after here. That's what makes the composition
   interesting.
@@ -51,6 +54,7 @@ What is it that makes composition nicer than hooks. Two things:
   two nice things is another nice thing &mdash; means not only that you can
   build on the original API. It also means that you can publish your addition as
   a bona fide plugin. And then other people can build on your plugin, just as if
-  it were an original building block of the API.
+  it were an original building block of the API. This "potentially infinite"
+  pluggability is what plugins are lacking and composability has.
 
 **«** [Previous](ELEVATOR.md) **|** [Next](SELECTOR.md) **»**

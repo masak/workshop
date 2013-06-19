@@ -40,4 +40,8 @@ See [Martin Fowler's bliki
 page](http://www.martinfowler.com/bliki/DomainSpecificLanguage.html) for more
 on the topic.
 
+Also see [Dynamic variables and DSL-y
+things](https://perl6advent.wordpress.com/2012/12/20/day-20-dynamic-variables-and-dsl-y-things/)
+from the Perl 6 Advent Calendar.
+
 **«** [Previous](HIGHLIGHT.md) **|** [Next](SHIPPING.md) **»**

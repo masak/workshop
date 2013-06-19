@@ -3,7 +3,7 @@ So, yeah. Don't Repeat Yourself. Fine.
 We've all been there. We copy-paste a bit of code and modify the copy a little.
 Because what's the worst thing that can happen? Hehe.
 
-Two months later, or five minutes later, or somewhere in between disaster
+Two months later, or five minutes later, or somewhere in between, disaster
 strikes. The disaster can be traced straight back to the copy-pasting. We
 realize that we should have abstracted things, not duplicated them.
 
@@ -27,12 +27,17 @@ spells trouble. And pain.
 
 I think the DRY principle is excellent, and correct, and useful. It's a really
 good indicator of when you need to refactor. It's just that it has a limit,
-outside of which it doesn't apply. For some reasons, people don't tend to talk
+outside of which it doesn't apply. For some reason, people don't tend to talk
 about when DRY doesn't apply.
 
 As far as I can see, DRY applies pretty much all-out to code. You want to
 remove a *lot* of redundancy from your code. Sometimes to the point of making
 your algorithm data-driven.
+
+The best code is no code, and so DRY-ing code away is a net good. When
+possible, use APL. `:-P` (No, really. Try it out, it's a mind-opener. But these
+days it's probably [J](http://jsoftware.com/) or [K](http://www.kx.com/) you
+should give a spin.)
 
 So let's talk about when DRY stops applying to data.
 

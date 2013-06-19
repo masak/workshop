@@ -2,7 +2,7 @@ Testing plays a central role in a lot of domains, so I thought we'd come back
 to it here.
 
 * Evolving the domain
-* "Knowledge crunching" (learning from the code and making the design better)
+* "Knowledge crunching" (folding new insights into the design and the code)
 * Giving courage to refactor when needed
 * Debugging
 

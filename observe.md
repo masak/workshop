@@ -34,6 +34,7 @@ something, but the observer interface has the *same* three methods that
 
 Kind of cool. This fact went unnoticed for decades, it seems. From 1991 when
 the "Design Patterns" book was published, and up until the time when Microsoft
-Research started developing Reactive Extensions for .NET.
+Research started developing [Reactive Extensions](https://rx.codeplex.com/) for
+.NET.
 
 **«** [Previous](FRINGE.md) **|** [Next](ELEVATOR.md) **»**

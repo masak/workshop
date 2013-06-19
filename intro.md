@@ -18,7 +18,7 @@ introduction in the right way, convincing the participants that I have the
 résumé required to temporarily install myself above them in the hierarchy, the
 whole course will provide a better taste experience for them. They feel they're
 getting value for their money. Even though probably they didn't pay; their boss
-did. Or the departmental budget.
+did. Or the departmental treasurer.
 
 But you didn't pay to participate in this workshop. I don't expect to keep you
 here by bragging. I don't even feel the need to justify my role as instructor
@@ -41,14 +41,17 @@ on-channel. Here are my expectations &mdash; not many &mdash; on you:
 
 * Spend time on the workshop material that interests you.
 * If an exercise or topic really works for you, do more of it. Go above and
-  beyond.
+  beyond. Surprise me. Bend the rules. Be creative.
 * If an exercise or topic doesn't work for you, do something about it.
   Make noise on the channel to attract explanations. Or move on and try
-  something else. Suggest new things to try.
+  something else. Suggest new things to try. All in all, try to turn the
+  negative state of things not working for you into something positive and
+  actionable.
 * Generally, if you get stuck in any way, take action. People will eagerly
   swoop in and advise you or point you in the right direction. You're
   eligible for infinite help on all tasks. If you don't ask for help, others
-  will not know to help you.
+  will not know to help you. If you do ask for help, chances are both you
+  and your helper will learn something.
 * It's OK to submit partial solutions for review and discussion.
 * Be curious. Learn stuff. When in doubt, experiment and observe. Have fun!
 

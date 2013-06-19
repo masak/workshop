@@ -6,8 +6,10 @@ the same source text.
 
 That's the technical side of it, and as a first approximation, it's not
 half-bad. Actually the analogy between "grammar" and "class" can run quite
-deep, and does run quite deep in Perl 6. (A grammar is a class with a different
-`ClassHOW`.)
+deep, and does run quite deep in Perl 6. (`GrammarHOW` derives `ClassHOW`,
+which means that grammars are a kind of class. See
+[`GrammarHOW.nqp`](https://github.com/rakudo/rakudo/blob/nom/src/Perl6/Metamodel/GrammarHOW.nqp);
+notice that the class block is literally empty, that's how similar they are.)
 
 But there's a more pressing non-technical reason, too. With regexes, the focus
 is on the text, and the text is *flat*. With grammars, the focus is on the

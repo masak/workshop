@@ -25,6 +25,14 @@ producer code and the consumer code, you can keep them apart. Smaller pieces;
 more cohesive. And both producer and consumer code can potentially be re-used
 and plugged into other things.
 
+Moose has a way to make attributes `lazy`, which means that the object doesn't
+compute the attribute on initialization, but only if-and-when it is accessed.
+This is really convenient, and without much fuss on the part of the programmer.
+The [Moose
+manual](https://metacpan.org/module/ETHER/Moose-2.0802/lib/Moose/Manual/Attributes.pod#Laziness)
+says "We recommend that you make any attribute with a builder or non-trivial
+default lazy as a matter of course."
+
 In Perl 6, we have `gather` as our flagship laziness construct. But many other
 common builtins, such as `map` and `grep`, will also work lazily by default.
 
@@ -41,10 +49,14 @@ laziness to lists, has had to navigate a few reefs to make sure laziness
 doesn't bit people. The problem is when people use laziness but don't expect
 to.
 
-For non-lazy languages like Perl 5, hope is far from lost, since the Iterator
-pattern will easily step up and emulate laziness for you. You just have to make
-do with doing all of your producing-consuming through some (object) API or
-other, rather than a language feature.
+Whether you're using Perl 5 or Perl 6, discovering and making judicious use of
+laziness will simplify and awesomify a fair percentage of your programs.
+
+Whether laziness is or isn't built into your language of choice, you can always
+roll your own laziness. The Iterator pattern will easily step up and emulate
+laziness for you. You just have to make do with doing all of your
+producing-consuming through some (object) API or other, rather than a language
+feature.
 
 An iterator, at its simplest, is an object with two methods:
 

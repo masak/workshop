@@ -37,8 +37,8 @@ Oscar Wilde and Ambrose Bierce have great quotes that build on this.
 > see men, women and children acting the fool.
 
 But this trick fills absolutely no function in a program, where the whole
-purpose is to inform the reader about what's going on. Sure, it may be less
-literary and more boring, but it's also easier to read.
+purpose is to communicate intent, to inform the reader about what's going on.
+Sure, it may be less literary and more boring, but it's also easier to read.
 
 Don't save the best till last. Think about what's the most important part of a
 statement, and try to shift it to the front, so that the reader sees it first.

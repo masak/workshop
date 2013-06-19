@@ -1,13 +1,15 @@
 Maybe you've heard horror stories about job interviews where programmers were
 asked to extract names and phone numbers from a data file containing phone book
-information, and they spend an hour writing weird contortions with substrings
+information, and they spent an hour writing weird contortions with substrings
 and string indices and stuff...
 
 Well, regexes are what makes us do something quickly and easily in such a
 situation. They're a language for matching and manipulating strings.
 
 They're meant to be used [swinging from a liana in the
-roof](http://xkcd.com/208/).
+roof](http://xkcd.com/208/). (No, seriously though, don't try that at home.
+Unless of course your home [is filled with playpen
+balls](http://xkcd.com/150/), in which case go right ahead.)
 
 Under "Expert" (stage 4) in [Seven Stages of a Perl
 Programmer](http://jwenet.net/notebook/2005/1075.html), we find the item
