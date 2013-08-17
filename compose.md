@@ -8,7 +8,7 @@ Someone tweeted back: "hooks are good, but *composability* is better".
 That really got me thinking. I hadn't considered composition and composability
 such a big deal up until then. But I think it is.
 
-Two simple examples of composability, just so we're talking about something
+Three simple examples of composability, just so we're talking about something
 concrete:
 
 * LEGO pieces. A LEGO piece has nice button-like knobs at the top. When you
