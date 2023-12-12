@@ -59,8 +59,7 @@ Variables. Data structures. Types. Macros. It's all about reaching for the
 appropriate tool whenever we find some repetition that can be eliminated.
 
 Apparently there's a principle called the
-[abstraction
-principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming\))
+[abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
 that says that you should abstract as often as you can. Cats are great at this:
 try making a repeated pattern with your hand in front of a cat &mdash; chances
 are it will put its paw on your hand and glare at you, as if they also wanted
