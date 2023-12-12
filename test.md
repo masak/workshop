@@ -80,7 +80,7 @@ are the same.
 
 If you're still not convinced testing is the bee's knees, might I suggest a
 detour into these two posts? [How to think better about code and be more
-effective](http://blog.edument.se/2012/03/21/how-to-think-better-about-code-and-be-more-effective/)
+effective](https://web.archive.org/web/20160304024638/http://blog.edument.se/2012/03/21/how-to-think-better-about-code-and-be-more-effective/)
 and [Why tests will change the way you code (if they haven't
 already)](http://strangelyconsistent.org/blog/why-tests-will-change-the-way-you-code).
 
