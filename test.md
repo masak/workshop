@@ -66,7 +66,7 @@ without tests is like having one sock puppet talking to itself: it tends to
 turn into rambling without a purpose, and there's no-one to contradict the sock
 puppet when it's saying crazy stuff. ☺
 
-Because tests are the best way I know to communicate requirements, the form a
+Because tests are the best way I know to communicate requirements, they form a
 part of most exercises.
 
 Seriously, if I could give people one piece of advice for how to better
